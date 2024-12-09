@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function(){
     }
 })
 
-/**This main game loop, callend when the script is first loaded
+/**The main game loop, called when the script is first loaded
  * and after the users answers has been processed.
  */
 
